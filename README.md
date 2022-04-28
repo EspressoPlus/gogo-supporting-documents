@@ -3,7 +3,7 @@
 CPS 298 Team Programming final project supporting documents for team EspressoPlus.
 
 
-### Other resources:
+### Team EspressoPlus Repos:
 
 [gogoMoney](https://github.com/EspressoPlus/gogoMoney)
 
